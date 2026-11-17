@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos e regularização",
+    "titulo": "Pedir refúgio no Brasil",
+    "palavras_chave": ["refugio", "refugiado", "refugiada", "pedir refugio", "solicitar refugio", "pedido de refugio", "asilo", "sisconare", "conare"],
+    "resposta": "O pedido de refúgio é feito pela internet, no sistema Sisconare, e depois você precisa ir à Polícia Federal (com horário marcado) para receber o Protocolo de Refúgio. O serviço é gratuito. O protocolo vale 1 ano e deve ser renovado até a decisão do Conare.",
+    "documentos": ["Documento de identificação que você tiver", "Foto 3x4 (confirme com a Polícia Federal se pedem)", "E-mail para criar a senha do Sisconare"],
+    "onde": "Sisconare (pela internet) e unidade da Polícia Federal (presencial, com agendamento)",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-refugio",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos e regularização",
+    "titulo": "Renovar o Protocolo de Refúgio",
+    "palavras_chave": ["renovar protocolo", "renovar refugio", "protocolo de refugio", "protocolo vencendo", "protocolo vencido", "dprnm"],
+    "resposta": "Quem já está no Sisconare deve ir à Polícia Federal para renovar o Protocolo de Refúgio. Veja antes se é preciso agendar horário. Se o seu protocolo ainda não é do Sisconare, primeiro faça o recadastro no sistema.",
+    "documentos": ["Protocolo de Refúgio atual (o que será renovado)"],
+    "onde": "Unidade da Polícia Federal (presencial; confira se precisa agendar)",
+    "fonte": "https://www.gov.br/pt-br/servicos/renovar-protocolo-de-refugio-para-solicitante-que-esta-no-sisconare",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos e regularização",
+    "titulo": "Pedir autorização de residência no Brasil",
+    "palavras_chave": ["autorizacao de residencia", "residencia", "visto", "regularizar", "regularizacao", "residir no brasil", "morar no brasil", "permanencia", "renovar residencia"],
+    "resposta": "A autorização de residência é pedida pelo formulário do serviço no portal gov.br, escolhendo a modalidade que corresponde à sua situação. O mesmo serviço serve para renovar ou transformar a residência. Depois que ela for aprovada, você faz o registro na Polícia Federal para receber a CRNM.",
+    "documentos": ["Documento de viagem ou de identificação válido", "Documentos exigidos para a modalidade escolhida (a lista aparece no serviço)"],
+    "onde": "Portal gov.br (formulário) e Polícia Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-autorizacao-de-residencia-e-carteira-de-registro-migratorio",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos e regularização",
+    "titulo": "Fazer o registro na Polícia Federal e receber a CRNM",
+    "palavras_chave": ["crnm", "rnm", "registro nacional migratorio", "carteira de registro nacional migratorio", "carteira de estrangeiro", "carteira de migrante", "registro na policia federal", "registrar como estrangeiro", "cie"],
+    "resposta": "Quem tem visto temporário ou autorização de residência aprovada pede o registro pelo serviço no gov.br, agenda um horário e vai à Polícia Federal para receber a Carteira de Registro Nacional Migratório (CRNM), o documento de identificação do estrangeiro. Há prazo para fazer o registro e pode haver taxa: confira no serviço.",
+    "documentos": ["Visto temporário ou autorização de residência aprovada", "Documentos listados no serviço, em original", "Comprovante de pagamento da taxa (GRU), quando houver"],
+    "onde": "Agendamento pelo gov.br e atendimento em unidade da Polícia Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/registrar-se-como-estrangeiro-no-brasil",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos e regularização",
+    "titulo": "Pedir a segunda via da CRNM",
+    "palavras_chave": ["segunda via da crnm", "segunda via crnm", "2 via crnm", "crnm perdida", "crnm roubada", "perdi a crnm", "perdi minha crnm"],
+    "resposta": "Quem já tem a CRNM (ou a antiga Cédula de Identidade de Estrangeiro) com autorização de residência válida pode pedir a segunda via pelo serviço no gov.br. Se você ainda não tem autorização de residência ou registro, use antes os serviços de autorização de residência e de registro.",
+    "documentos": ["CRNM ou documento anterior, se você tiver", "Documentos indicados no serviço"],
+    "onde": "Serviço no portal gov.br e Polícia Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-2a-via-de-carteira-de-registro-nacional-migratorio-crnm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos e regularização",
+    "titulo": "Tirar o CPF (Cadastro de Pessoa Física) sendo estrangeiro",
+    "palavras_chave": ["cpf", "cadastro de pessoa fisica", "tirar cpf", "cpf estrangeiro", "cpf para estrangeiro", "inscricao no cpf", "inscrever no cpf"],
+    "resposta": "Você pode pedir a inscrição no CPF pela internet, no formulário da Receita Federal, ou em atendimento presencial (unidades da Receita Federal, pontos de atendimento parceiros e rede conveniada). Quem mora no exterior pede pelo consulado brasileiro.",
+    "documentos": ["Documento de identificação válido (veja a lista no serviço)", "Outros documentos exigidos para o seu caso (veja no serviço)"],
+    "onde": "Site da Receita Federal (online), unidades da Receita Federal ou rede conveniada",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 7,
+    "categoria": "Saúde",
+    "titulo": "Ser atendido no SUS e fazer o Cartão SUS",
+    "palavras_chave": ["cartao sus", "cartao do sus", "sus", "cns", "posto de saude", "ubs", "atendimento medico", "medico", "saude"],
+    "resposta": "A Lei de Migração garante ao imigrante o acesso aos serviços públicos de saúde, sem discriminação pela nacionalidade ou pela situação migratória. Procure a UBS (posto de saúde) mais perto de onde você mora para ser atendido e fazer o Cartão SUS. Pergunte na UBS quais documentos pedem, pois podem variar.",
+    "documentos": ["Documento de identificação que você tiver", "Comprovante de endereço, se tiver"],
+    "onde": "UBS (posto de saúde) mais perto de onde você mora",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 8,
+    "categoria": "Saúde",
+    "titulo": "Tomar vacinas gratuitas no SUS",
+    "palavras_chave": ["vacina", "vacinas", "vacinacao", "vacinar", "carteira de vacinacao", "calendario de vacinacao"],
+    "resposta": "As vacinas do Calendário Nacional de Vacinação são oferecidas de graça pelo SUS nas unidades de saúde. Para saber quais vacinas você ou sua família precisam, pergunte na UBS mais próxima.",
+    "documentos": ["Documento de identificação que você tiver", "Comprovante ou cartão de vacinas anteriores, se tiver"],
+    "onde": "UBS (posto de saúde) mais perto de onde você mora",
+    "fonte": "https://www.gov.br/saude/pt-br/vacinacao",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 9,
+    "categoria": "Educação e trabalho",
+    "titulo": "Matricular crianças e adolescentes na escola pública",
+    "palavras_chave": ["matricula", "matricular", "escola", "escola publica", "vaga na escola", "educacao", "ensino", "filho na escola", "filhos na escola"],
+    "resposta": "A Lei de Migração garante o direito à educação pública, sem discriminação pela nacionalidade ou pela situação migratória. Procure a escola pública mais perto de casa ou a Secretaria de Educação da sua cidade. Leve os documentos que tiver; a escola ou a Secretaria de Educação diz se precisa de mais algum.",
+    "documentos": ["Documento de identificação da criança, se tiver", "Comprovante de endereço, se tiver", "Histórico escolar anterior, se tiver"],
+    "onde": "Escola pública mais perto de casa ou Secretaria de Educação da cidade",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 10,
+    "categoria": "Educação e trabalho",
+    "titulo": "Usar a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "carteira de trabalho digital", "ctps", "trabalhar", "trabalho", "emprego", "contrato de trabalho"],
+    "resposta": "A Lei de Migração garante ao imigrante o direito ao trabalho. Com o CPF, você pode criar uma conta no portal gov.br e usar o aplicativo Carteira de Trabalho Digital. Confira no aplicativo ou no site do Ministério do Trabalho e Emprego as regras para o seu caso.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital e portal gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 11,
+    "categoria": "Educação e trabalho",
+    "titulo": "Revalidar diploma de curso superior feito no exterior",
+    "palavras_chave": ["diploma", "revalidar diploma", "revalidacao", "reconhecer diploma", "validar diploma", "faculdade", "curso superior", "carolina bori", "universidade"],
+    "resposta": "A revalidação de diplomas de graduação feitos no exterior é feita por universidades públicas, e o MEC mantém a Plataforma Carolina Bori para organizar esses pedidos. Veja no site do MEC quais universidades participam e quais documentos elas pedem.",
+    "documentos": ["Diploma e histórico escolar do curso", "Tradução juramentada, quando a universidade exigir"],
+    "onde": "Plataforma Carolina Bori (MEC) e universidade pública participante",
+    "fonte": "https://www.gov.br/mec",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 12,
+    "categoria": "Direitos e apoio",
+    "titulo": "Pedir orientação jurídica gratuita (Defensoria Pública)",
+    "palavras_chave": ["defensoria", "dpu", "defensoria publica", "advogado", "advogado gratis", "orientacao juridica", "ajuda juridica", "direitos", "justica"],
+    "resposta": "A Defensoria Pública da União (DPU) pode orientar migrantes e refugiados sobre documentos e direitos, sem custo. Os contatos das unidades estão no site da DPU. Também existem as Defensorias Públicas dos estados.",
+    "documentos": ["Documento de identificação que você tiver"],
+    "onde": "Unidade da DPU ou da Defensoria Pública do seu estado (contatos no site da DPU)",
+    "fonte": "https://www.dpu.def.br/contatos-dpu",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 13,
+    "categoria": "Direitos e apoio",
+    "titulo": "Se cadastrar no CadÚnico para programas sociais",
+    "palavras_chave": ["cadunico", "cadastro unico", "cras", "bolsa familia", "auxilio", "beneficio social", "assistencia social", "programas sociais"],
+    "resposta": "O CadÚnico é a porta de entrada para programas sociais como o Bolsa Família. O cadastro é feito no CRAS ou no posto de atendimento do CadÚnico da sua cidade. A Lei de Migração garante ao imigrante o acesso à assistência social, mas as regras de cada programa podem variar: confirme no CRAS.",
+    "documentos": ["Documento de identificação que você tiver", "CPF, se tiver", "Comprovante de endereço, se tiver"],
+    "onde": "CRAS ou posto do CadÚnico mais perto de onde você mora",
+    "fonte": "https://www.gov.br/mds/pt-br",
+    "verificado_em": "2026-11-14"
+  }
+]
